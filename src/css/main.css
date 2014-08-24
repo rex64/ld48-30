@@ -1,0 +1,21 @@
+* {
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  /*background: #000;*/
+}
+
+.game {
+  width: 852px;
+  height: 480px;
+  margin: 20px auto;
+}
+
+.text {
+  text-align: center;
+}
